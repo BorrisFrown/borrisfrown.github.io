@@ -1,0 +1,78 @@
+[
+        {
+            "feature_id": "poverty_perc",
+            "feature_name": "Poverty %",
+            "tooltip_desc": "% in poverty"
+        },
+        {
+            "feature_id": "median_household_income",
+            "feature_name": "Median Household Income",
+            "tooltip_desc": " median income"
+        },
+        {
+            "feature_id": "education_less_than_high_school_percent",
+            "feature_name": "Education Less Than High School %",
+            "tooltip_desc": "% less than high school education"
+        },
+        {
+            "feature_id": "air_quality",
+            "feature_name": "Air Quality",
+            "tooltip_desc": " air quality"
+        },
+        {
+            "feature_id": "park_access",
+            "feature_name": "Park Access",
+            "tooltip_desc": " parks"
+        },
+        {
+            "feature_id": "percent_inactive",
+            "feature_name": "Inactive %",
+            "tooltip_desc": "% inactive"
+        },
+        {
+            "feature_id": "percent_smoking",
+            "feature_name": "Smoking %",
+            "tooltip_desc": "% smoking"
+        },
+        {
+            "feature_id": "elderly_percentage",
+            "feature_name": "Elderly %",
+            "tooltip_desc": "% elderly"
+        },
+        {
+            "feature_id": "number_of_hospitals",
+            "feature_name": "Number of Hospitals",
+            "tooltip_desc": " hospitals"
+        },
+        {
+            "feature_id": "number_of_primary_care_physicians",
+            "feature_name": "Number of Primary Care Physicians",
+            "tooltip_desc": " primary care physicians"
+        },
+        {
+            "feature_id": "percent_no_heath_insurance",
+            "feature_name": "No Health Insurance %",
+            "tooltip_desc": "% no health insurance"
+        },
+        {
+            "feature_id": "percent_high_blood_pressure",
+            "feature_name": "High Blood Pressure %",
+            "tooltip_desc": "% high blood pressure"
+        },
+        {
+            "feature_id": "percent_coronary_heart_disease",
+            "feature_name": "Coronary Heart Disease %",
+            "tooltip_desc": "% coronary heart disease"
+        },
+        {
+            "feature_id": "percent_stroke",
+            "feature_name": "Stroke %",
+            "tooltip_desc": "% stroke"
+        },
+        {
+            "feature_id": "percent_high_cholesterol",
+            "feature_name": "High Cholesterol %",
+            "tooltip_desc": "% high cholesterol"
+        }
+    
+    ]
